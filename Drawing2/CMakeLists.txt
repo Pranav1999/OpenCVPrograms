@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Drawing2 )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Drawing2 Drawing2.cpp )
+target_link_libraries( Drawing2 ${OpenCV_LIBS} )

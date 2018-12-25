@@ -1,0 +1,3 @@
+/home/pranav2/Documents/Summer2018/opencv/SobelScharrLaplace/CMakeFiles/rebuild_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/SobelScharrLaplace/CMakeFiles/edit_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/SobelScharrLaplace/CMakeFiles/SobelScharrLaplace.dir

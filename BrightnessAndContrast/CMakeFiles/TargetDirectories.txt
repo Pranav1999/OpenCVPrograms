@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/BrightnessAndContrast/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/BrightnessAndContrast/CMakeFiles/BrightnessAndContrast.dir
+/home/pranav/Documents/Summer2018/opencv/BrightnessAndContrast/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( ExtractHorVerLine )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( ExtractHorVerLine ExtractHorVerLine.cpp )
+target_link_libraries( ExtractHorVerLine ${OpenCV_LIBS} )

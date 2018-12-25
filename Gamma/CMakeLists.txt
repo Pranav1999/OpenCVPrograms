@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Gamma )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Gamma Gamma.cpp )
+target_link_libraries( Gamma ${OpenCV_LIBS} )

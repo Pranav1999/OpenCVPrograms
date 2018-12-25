@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/Temp/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/Temp/CMakeFiles/Temp.dir
+/home/pranav/Documents/Summer2018/opencv/Temp/CMakeFiles/rebuild_cache.dir

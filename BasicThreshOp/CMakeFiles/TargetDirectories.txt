@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/BasicThreshOp/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/BasicThreshOp/CMakeFiles/BasicThreshOp.dir
+/home/pranav/Documents/Summer2018/opencv/BasicThreshOp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/pranav2/Documents/Summer2018/opencv/CreateAruco/CMakeFiles/rebuild_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/CreateAruco/CMakeFiles/edit_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/CreateAruco/CMakeFiles/CreateAruco.dir

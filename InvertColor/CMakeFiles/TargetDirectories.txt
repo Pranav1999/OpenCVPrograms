@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/InvertColor/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/InvertColor/CMakeFiles/InvertColor.dir
+/home/pranav/Documents/Summer2018/opencv/InvertColor/CMakeFiles/rebuild_cache.dir

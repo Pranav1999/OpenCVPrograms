@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/TemplateMatching/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/TemplateMatching/CMakeFiles/TemplateMatching.dir
+/home/pranav/Documents/Summer2018/opencv/TemplateMatching/CMakeFiles/rebuild_cache.dir

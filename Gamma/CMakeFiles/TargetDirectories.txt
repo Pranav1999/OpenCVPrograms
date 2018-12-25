@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/Gamma/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/Gamma/CMakeFiles/Gamma.dir
+/home/pranav/Documents/Summer2018/opencv/Gamma/CMakeFiles/rebuild_cache.dir

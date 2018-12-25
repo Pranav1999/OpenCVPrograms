@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/RegionOfInterest/CMakeFiles/rebuild_cache.dir
+/home/pranav/Documents/Summer2018/opencv/RegionOfInterest/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/RegionOfInterest/CMakeFiles/RegionOfInterest.dir

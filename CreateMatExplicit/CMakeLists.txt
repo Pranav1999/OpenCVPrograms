@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( CreateMatExplicit )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( CreateMatExplicit CreateMatExplicit.cpp )
+target_link_libraries( CreateMatExplicit ${OpenCV_LIBS} )

@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/FourierTransform/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/FourierTransform/CMakeFiles/FourierTransform.dir
+/home/pranav/Documents/Summer2018/opencv/FourierTransform/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/pranav2/Documents/Summer2018/opencv/VideoCapture/CMakeFiles/edit_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/VideoCapture/CMakeFiles/rebuild_cache.dir
+/home/pranav2/Documents/Summer2018/opencv/VideoCapture/CMakeFiles/VideoCapture.dir

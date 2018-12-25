@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( InvertColor )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( InvertColor InvertColor.cpp )
+target_link_libraries( InvertColor ${OpenCV_LIBS} )

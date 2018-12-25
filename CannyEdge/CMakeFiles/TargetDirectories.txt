@@ -1,0 +1,3 @@
+/home/pranav/Documents/Summer2018/opencv/CannyEdge/CMakeFiles/edit_cache.dir
+/home/pranav/Documents/Summer2018/opencv/CannyEdge/CMakeFiles/CannyEdge.dir
+/home/pranav/Documents/Summer2018/opencv/CannyEdge/CMakeFiles/rebuild_cache.dir
